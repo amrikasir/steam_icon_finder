@@ -1,4 +1,4 @@
-# steam_icon_finder
+# Steam Icon Finder
 (I only test on Windows)
 use it with your own risk (and knowledge) to use this script on Linux and Mac
 
