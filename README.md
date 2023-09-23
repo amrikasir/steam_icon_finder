@@ -1,5 +1,6 @@
 # steam_icon_finder
-(Windows Only)
+(I only test on Windows)
+use it with your own risk (and knowledge) to use this script on Linux and Mac
 
 This Python script is on high development, I mean, I use Notepad and nothing advanced features here.
 just read all the shortcuts on your Desktop, filter it just for Steam games, download the icon and TADAAAAA.
